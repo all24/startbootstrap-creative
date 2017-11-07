@@ -1,0 +1,12 @@
+// Styling for the clients section
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.client-logo > img {
+  max-width: 200px;
+  padding: 15px;
+}
